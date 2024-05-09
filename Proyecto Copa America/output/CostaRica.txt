@@ -1,0 +1,27 @@
+Entrenador: Gustavo Alfaro
+
+Titulares:
+- Keylor Navas (Portero)
+- Cristian Gamboa (Defensa)
+- Giancarlo González (Defensa)
+- Kendall Waston (Defensa)
+- Ronald Matarrita (Defensa)
+- Celso Borges (Centrocampista)
+- Bryan Ruiz (Centrocampista)
+- Allan Cruz (Centrocampista)
+- Joel Campbell (Delantero)
+- Johan Venegas (Delantero)
+- Marco Ureña (Delantero)
+
+Suplentes:
+- Esteban Alvarado (Portero)
+- Oscar Duarte (Defensa)
+- Francisco Calvo (Defensa)
+- Bryan Oviedo (Defensa)
+- David Guzman (Centrocampista)
+- Yeltsin Tejeda (Centrocampista)
+- Randall Leal (Centrocampista)
+- Jose Guillermo Ortiz (Delantero)
+- Mayron George (Delantero)
+- Jonathan McDonald (Delantero)
+- Ariel Lassiter (Delantero)

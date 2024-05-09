@@ -1,0 +1,27 @@
+Entrenador: Felix Sanchez Bas
+
+Titulares:
+- Alexander Dominguez (Portero)
+- Antonio Valencia (Defensa)
+- Robert Arboleda (Defensa)
+- Xavier Arreaga (Defensa)
+- Pervis Estupinan (Defensa)
+- Jefferson Orejuela (Centrocampista)
+- Renato Ibarra (Centrocampista)
+- Carlos Gruezo (Centrocampista)
+- Angel Mena (Centrocampista)
+- Enner Valencia (Delantero)
+- Michael Estrada (Delantero)
+
+Suplentes:
+- Pedro Ortiz (Portero)
+- Felix Torres (Defensa)
+- Diego Palacios (Defensa)
+- Alan Franco (Centrocampista)
+- Jose Cifuentes (Centrocampista)
+- Moises Caicedo (Centrocampista)
+- Jose Quintero (Centrocampista)
+- Jordy Caicedo (Delantero)
+- Fidel Martinez (Delantero)
+- Leonardo Campana (Delantero)
+- Gonzalo Plata (Delantero)

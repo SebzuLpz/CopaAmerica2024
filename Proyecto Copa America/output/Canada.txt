@@ -1,0 +1,27 @@
+Entrenador: Mauro Biello
+
+Titulares:
+- Milan Borjan (Portero)
+- Richie Laryea (Defensa)
+- Doneil Henry (Defensa)
+- Kamal Miller (Defensa)
+- Alphonso Davies (Defensa)
+- Samuel Piette (Centrocampista)
+- Mark-Anthony Kaye (Centrocampista)
+- Jonathan Osorio (Centrocampista)
+- Stephen Eustáquio (Centrocampista)
+- Junior Hoilett (Delantero)
+- Cyle Larin (Delantero)
+
+Suplentes:
+- Maxime Crépeau (Portero)
+- Alistair Johnston (Defensa)
+- Derek Cornelius (Defensa)
+- Scott Arfield (Centrocampista)
+- Liam Fraser (Centrocampista)
+- David Wotherspoon (Centrocampista)
+- Tesho Akindele (Delantero)
+- Lucas Cavallini (Delantero)
+- Jonathan David (Delantero)
+- Tajon Buchanan (Delantero)
+Theo Corbeanu (Delantero)

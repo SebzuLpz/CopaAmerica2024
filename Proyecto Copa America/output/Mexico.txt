@@ -1,0 +1,28 @@
+Entrenador: Luiz Felipe Scolari
+
+Titulares:
+
+- Guillermo Ochoa (Portero)
+- Jesus Gallardo (Defensa)
+- Hector Moreno (Defensa)
+- Carlos Salcedo (Defensa)
+- Luis Rodriguez (Defensa)
+- Hector Herrera (Centrocampista)
+- Andres Guardado (Centrocampista)
+- Edson Alvarez (Centrocampista)
+- Hirving Lozano (Delantero)
+- Raul Jimenez (Delantero)
+- Javier Hernandez (Delantero)
+
+Suplentes:
+- Rodolfo Cota (Portero)
+- Nestor Araujo (Defensa)
+- Gerardo Arteaga (Defensa)
+- Jorge Sanchez (Defensa)
+- Erick Gutierrez (Centrocampista)
+- Orbelin Pineda (Centrocampista)
+- Diego Lainez (Centrocampista)
+- Uriel Antuna (Centrocampista)
+- Henry Martin (Delantero)
+- Alan Pulido (Delantero)
+- Jesus Corona (Delantero)

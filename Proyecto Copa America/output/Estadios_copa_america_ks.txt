@@ -1,0 +1,113 @@
+-------------------------------------------
+GRUPO A
+-------------------------------------------
+Chile vs argentina 
+(MetLife Stadium, East Rutherford)
+
+ Argentina vs peru 
+(Hard Rock Stadium, Miami)
+
+ Argentina vs Canada 
+(Mercedes-Benz Stadium, Atlanta) 
+
+ Peru vs chile 
+(AT&T Stadium, Arlington) 
+
+ Canada vs chile
+(Exploria Stadium, Orlando) 
+
+ Peru vs canada 
+(Children's Mercy Park, Kansas City (KCK))
+-------------------------------------------
+GRUPO B
+------------------------------------------- 
+Mexico vs ecuador 
+(State Farm Stadium, Glendale)
+
+Venezuela vs mexico 
+(SoFi Stadium, Inglewood)
+
+Mexico vs Jamaica
+(NRG Stadium, Houston)
+
+Ecuador vs Venezuela 
+(Exploria Stadium, Orlando)
+
+Ecuador vs Jamaica 
+(Allegiant Stadium, Paradise)
+
+Jamaica vs Venezuela 
+(Q2 Stadium, Austin)
+-------------------------------------------
+GRUPO C
+-------------------------------------------
+Estados unidos vs Uruguay 
+(Arrowhead Stadium, Kansas City (KCMO))
+
+Panama vs Estados unidos 
+(Mercedes-Benz Stadium, Atlanta)
+
+Estados unidos vs Bolivia
+(AT&T Stadium, Arlington)
+
+Uruguay vs panama  
+(Hard Rock Stadium,Miami)
+
+Uruguay vs Bolivia
+(MetLife Stadium, East Rutherford)
+
+Bolivia vs panama 
+(Exploria Stadium, Orlando) 
+-------------------------------------------
+GRUPO D
+-------------------------------------------
+Brasil vs Colombia 
+(levi's stadium, santa clara) 
+
+Paraguay  vs Brasil 
+(Allgiant Stadium, Paradise) 
+
+Brasil vs Costa rica 
+(Sofi stadium, Inglewood)
+
+Colombia vs Paraguay 
+(NRG Stadium, Houston)
+
+Colombia vs costa rica 
+(State farm stadium, Glendale)
+
+Costa rica vs Paraguay 
+(Q2 stadium, Austin) 
+-------------------------------------------
+CUARTOS DE FINAL
+-------------------------------------------
+A1 VS B2
+(NRG Stadium, Houston)
+
+1B VS A2 
+(AT&T Stadium, Arlington)
+
+1C VS 2D
+(Allgiant Stadium, Paradise) 
+
+1D VS 2C
+(State farm stadium, Glendale)
+-------------------------------------------
+SEMIFINALES
+-------------------------------------------
+Semifinalista A vs Semifinalista B 
+(MetLife Stadium, East Rutherford) 
+
+Semifinalista C vs Semfinalista D
+(Bank of America Stadium, Charllotte) 
+-------------------------------------------
+TERCER PUESTO
+-------------------------------------------
+Perdedor semifinal A-B VS Perdedor Semifinal C-D
+(Bank of America Stadium, Charllotte) 
+-------------------------------------------
+FINAL 
+-------------------------------------------
+Ganador semifinal A vs Ganador semifinal B 
+(Hard Rock Stadium, Miami)
+--------------------------------------------------

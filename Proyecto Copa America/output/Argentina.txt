@@ -1,0 +1,23 @@
+Entrenador: Lionel scaloni
+  
+Titulares:
+- Emiliano Martinez (Portero)
+- Juan Foyth (Defensa)
+- Nicolas Otamendi (Defensa)
+- Marcos Acuna (Defensa)
+- Nicolas Tagliafico (Defensa)
+- Rodrigo De Paul (Centrocampista)
+- Giovani Lo Celso (Centrocampista)
+- Leandro Paredes (Centrocampista)
+- Angel Di Maria (Delantero)
+- Lionel Messi (Delantero)
+- Lautaro Martinez (Delantero)
+
+Suplentes:
+- Juan Musso (Portero)
+- Gonzalo Montiel (Defensa)
+- Lucas Martinez Quarta (Defensa)
+- Exequiel Palacios (Centrocampista)
+- Alejandro Gomez (Centrocampista)
+- Sergio Aguero (Delantero)
+

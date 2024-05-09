@@ -1,0 +1,29 @@
+Entrenador:  Antonio Carlos Zago
+
+Titulares:
+- Carlos Lampe (Portero)
+- Adrián Jusino (Defensa)
+- Luis Haquin (Defensa)
+- Diego Bejarano (Defensa)
+- José Sagredo (Defensa)
+- Leonel Justiniano (Centrocampista)
+- Jeyson Chura (Centrocampista)
+- Erwin Saavedra (Centrocampista)
+- Extremo Derecho: Juan Carlos Arce (Delantero)
+- Extremo Izquierdo: Alejandro Chumacero (Delantero)
+- Delantero Centro: Marcelo Moreno (Delantero)
+
+Suplentes:
+- Rubén Cordano (Portero)
+- Gabriel Valverde (Defensa)
+- Jesús Sagredo (Defensa)
+- Óscar Ribera (Defensa)
+- Moisés Villarroel (Centrocampista)
+- Christian Machado (Centrocampista)
+- Ramiro Vaca (Centrocampista)
+- Carlos Añez (Centrocampista)
+- Bruno Miranda (Delantero)
+- Boris Céspedes (Delantero)
+- Rodrigo Ramallo (Delantero)
+- Gilbert Álvarez (Delantero)
+

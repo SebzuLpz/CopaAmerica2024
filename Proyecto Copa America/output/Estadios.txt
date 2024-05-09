@@ -1,0 +1,95 @@
+1
+MetLife Stadium, East Rutherford
++
+2
+Hard Rock Stadium, Miami
++
+3
+Mercedes-Benz Stadium, Atlanta
++
+4
+AT&T Stadium, Arlington
++
+5
+Exploria Stadium, Orlando
++
+6
+Children's Mercy Park, Kansas City (KCK)
++
+7
+State Farm Stadium, Glendale
++
+8
+SoFi Stadium, Inglewood
++
+9
+NRG Stadium, Houston
++
+10
+Exploria Stadium, Orlando
++
+11
+Allegiant Stadium, Paradise
++
+12
+Q2 Stadium, Austin
++
+13
+Arrowhead Stadium, Kansas City (KCMO)
++
+14
+Mercedes-Benz Stadium, Atlanta
++
+15
+AT&T Stadium, Arlington
++
+16
+Hard Rock Stadium,Miami
++
+17
+MetLife Stadium, East Rutherford
++
+18
+Exploria Stadium, Orlando
++
+19
+Levi's stadium, Santa Clara
++
+20
+Allgiant Stadium, Paradise
++
+21
+SoFi Stadium, Inglewood
++
+22
+NRG Stadium, Houston
++
+23
+State farm stadium, Glendale
++
+24
+Q2 stadium, Austin
++
+25
+NRG Stadium, Houston
++
+26
+AT&T Stadium, Arlington
++
+27
+Allgiant Stadium, Paradise
++
+28
+State farm stadium, Glendale
++
+29
+MetLife Stadium, East Rutherford
++
+30
+Bank of America Stadium, Charllotte
++
+31
+Bank of America Stadium, Charllotte
++
+32
+Hard Rock Stadium, Miami

@@ -1,0 +1,28 @@
+Entrenador: Dorival Junior  
+
+Titulares:
+- Alisson Becker (Portero)
+- Danilo (Defensa)
+- Thiago Silva (Defensa)
+- Marquinhos (Defensa)
+- Alex Sandro (Defensa)
+- Casemiro (Centrocampista)
+- Fabinho (Centrocampista)
+- Philippe Coutinho (Centrocampista)
+- Neymar Jr. (Delantero)
+- Roberto Firmino (Delantero)
+- Richarlison (Delantero)
+
+
+Suplentes:
+- Ederson (Portero)
+- Eder Militao (Defensa)
+- Renan Lodi (Defensa)
+- Lucas Paquetá (Centrocampista)
+- Arthur (Centrocampista)
+- Douglas Luiz (Centrocampista)
+- Everton (Delantero)
+- Gabriel Jesus (Delantero)
+- Vinícius Jr. (Delantero)
+- Rodrygo (Delantero)
+- Gabriel Barbosa (Delantero)
